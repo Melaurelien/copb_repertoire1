@@ -1,2 +1,1 @@
-# copb_repertoire1
-Sauvegarder le projet copb 
+Bonjour! Notre première application COPB
